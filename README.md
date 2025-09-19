@@ -1,7 +1,5 @@
 # smartfarmAdu
 
-# AgriSense (또는 GreenGuard / FarmAlert)
-
 이 프로젝트는 Arduino Uno와 센서를 활용하여 스마트팜 환경을 모니터링하는 **스마트 농장 환경 감지 시스템**입니다.  
 온도, 습도, 조도를 측정하고 조건에 따라 LED와 부저로 알림을 제공합니다.
 
